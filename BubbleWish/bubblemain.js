@@ -10,10 +10,10 @@ letterColors = [red, orange, green, blue, purple];
 mouseResponseThreshold = 100;
 
 // This variable controls how strongly the dots will try to return to their starting position
-friction = 0.7;
+friction = 0.8;
 
 // This variable controls how much the dots will rotate when interacting
-rotationForce = 0.01;
+rotationForce = 0.05;
 
 message1 = 'Happy Birthday keerthi!';
 
